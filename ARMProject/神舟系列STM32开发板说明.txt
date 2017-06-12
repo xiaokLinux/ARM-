@@ -1,0 +1,12 @@
+欢迎使用神舟系列STM32开发板--神舟IV号
+
+STM32F10x_StdPeriph_Lib_V3.3.0\Project
+目录下的例程已经经过验证，编译环境为IAR 5.30
+
+打开例程文件夹里的“EWARMv5\Project.eww”工程文件即可，例如“TFT触摸屏”的工程文件为：
+\STM32F10x_StdPeriph_Lib_V3.3.0\Project\TFT触摸屏\EWARMv5\Project.eww
+
+使用Jlink V8调试过程请参考视频：
+http://v.youku.com/v_show/id_XMTY0MjMzNzg0.html
+
+最新例程将在ARM技术的官方论坛www.armjishu.com公布，欢迎访问！
