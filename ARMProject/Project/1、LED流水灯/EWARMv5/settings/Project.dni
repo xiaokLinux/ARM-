@@ -1,5 +1,5 @@
 [DebugChecksum]
-Checksum=-494327268
+Checksum=184448705
 [DisAssemblyWindow]
 NumStates=_ 1
 State 1=_ 1
@@ -31,6 +31,10 @@ ActionState=1
 [TraceHelper]
 Enabled=0
 ShowSource=1
+[Disassemble mode]
+mode=0
+[Breakpoints]
+Count=0
 [Log file]
 LoggingEnabled=_ 0
 LogFile=_ ""
@@ -42,7 +46,3 @@ LogFile=_ ""
 Enabled=0
 Source=2
 Graph=0
-[Disassemble mode]
-mode=0
-[Breakpoints]
-Count=0
